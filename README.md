@@ -19,8 +19,12 @@
   <img align="center" alt="Emerson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Emerson-pic" height="150" style="border-radius:50px;" src="https://static.vecteezy.com/system/resources/previews/001/209/477/non_2x/coffee-png.png">
 </div>
-![Snake animation](https://github.com/emerson3/emerson3/blob/output/github-contribution-grid-snake.svg)
 
 
 **this week i spent my time on:**
 
+<div>
+ 
+  ![Snake animation](https://github.com/emerson3/emerson3/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>

@@ -29,7 +29,9 @@
  
   <img align="right" alt="Emerson-pic" height="150" style="border-radius:50px;" src="https://static.vecteezy.com/system/resources/previews/001/209/477/non_2x/coffee-png.png">
 </div>
-
+<h3  align = "center">Um pouco sobre mim...<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h3>
+<h5 align = "center"> Sou um estudante de graduação, na Estácio. Faço análise de desenvolvimento de sistemas, sou apaixonado pela tecnologia, diria que sempre foi o meu hobby. Não gosto de enxergar problemas, sempre darei prioridade a solução.</h5> 
 
 <div>
  

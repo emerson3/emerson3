@@ -38,7 +38,7 @@
   ![Snake animation](https://github.com/emerson3/emerson3/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-### Coding Stats
+
 <!--START_SECTION:waka-->
 
 ```text
